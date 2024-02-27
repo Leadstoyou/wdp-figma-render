@@ -39,7 +39,7 @@ export const routesForPublic = [
   { path: PATHS.COURSE_MANAGEMENT_SLUG, element: <CourseManagement /> },
   { path: PATHS.LECTURE_DASHBOARD, element: <LectureDashboard /> },
   { path: PATHS.LECTURE_DASHBOARD_SlUG, element: <LectureDashboard /> },
-  { path: PATHS.COURSE_TAKING, element: <CourseTaking /> }
+  { path: PATHS.COURSE_TAKING, element: <CourseTaking /> },
 ];
 
 export const routesForAuthenticatedOnly = [
