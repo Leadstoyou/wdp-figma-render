@@ -1,0 +1,189 @@
+{
+  "footer": {
+    "facebook": "Facebook",
+    "xtwitter": "XTwitter",
+    "google": "Google",
+    "contact": "Copyright ©2024 - Designed by 3DHA"
+  },
+  "button": {
+    "cancel": "Cancel",
+    "close": "Close",
+    "confirm": "Confirm"
+  },
+  "login": {
+    "title": "Login",
+    "emailField": "Email",
+    "passwordField": "Password",
+    "submitButton": "Login",
+    "or": "Or",
+    "maybe": "Maybe",
+    "signUpButton": "You don't have the account ? Please register",
+    "forgotPasswordButton": "You just forgot your password ? Click here",
+    "account": "You have an account? Log in",
+    "confirmEmail": "Please check your email to verify account!",
+    "google": "Sign in with Google"
+  },
+  "register": {
+    "register": "Register",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "username": "Username",
+    "email": "Email",
+    "phone": "Phone",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "signup": "Sign Up",
+    "or": "Or",
+    "account": "You have an account? Log in",
+    "confirmEmail": "Please check your email to verify account! \n The code expires in 10 minutes! \n If you can't get the code in your email, you must go to forgot password page! \n The account will be saved in the system for 3 days \n After that time, you must be registered again by this register infor!"
+  },
+  "forgotPassword": {
+    "forgotPassword": "Forgot Password",
+    "email": "Email",
+    "sendEmail": "Send Email",
+    "confirmEmail": "Please check your email to modify the password!",
+    "login": "Back to login",
+    "or": "Or"
+  },
+  "changePassword": {
+    "changePassword": "Change Password",
+    "password": "Re-Password",
+    "confirmPassword": "Confirm Re-Password",
+    "changePass": "Change password successfully! Login now!",
+    "login": "Back to login",
+    "or": "Or"
+  },
+  "errorPage": {
+    "404Messages": "Not Found!",
+    "404Messages2": "Unfortunately we're having trouble loading the page you are looking for",
+    "homepage": "Home Page"
+  },
+  "validation": {
+    "minimum": "Minimum {{min}} characters",
+    "maximum": "Maximum {{max}} characters",
+    "only-include-a-z,A-Z,0-9": "Only include a-z, A-Z, 0-9",
+    "must-not-be-empty": "Must not be empty",
+    "password-does-not-match": "Password does not match",
+    "phone-number-must-be-10-digits": "Phone number must be 10 digits",
+    "email-invalid": "Email invalid",
+    "price-must-be-greater-than-0": "Price must be greater than 0"
+  },
+  "header": {
+    "login": "Log in",
+    "register": "Sign up",
+    "category": "Categories",
+    "searchText": "Search for anything",
+    "bussiness": "Bussiness",
+    "teaching": "Teaching on 3DHA",
+    "logout": "Logout",
+    "languages": "Languages",
+    "description": "Description",
+    "wishlist": {
+      "name": "Wishlist",
+      "title": "Your wishlist is empty.",
+      "description": "Explore courses"
+    },
+    "learning": {
+      "name": "My learning",
+      "title": "Your learning is empty.",
+      "description": "Explore more courses"
+    },
+    "notification": {
+      "name": "Notification",
+      "title": "Settings",
+      "description": "No notifications."
+    },
+    "message": {
+      "name": "Message"
+    },
+    "editProfile": {
+      "name": "Edit profile"
+    },
+    "support": {
+      "name": "Help"
+    }
+  },
+  "homepage": {
+    "partnerBanner": {
+      "title": "Trusted by over 15,000 companies and millions of learners around the world"
+    },
+    "boardCourses": {
+      "title": "A broad selection of courses",
+      "description": "Choose from over 210,000 online video courses with new additions published every month"
+    },
+    "learnerView": {
+      "title": "Learners are viewing",
+      "carousel": {
+        "bestseller": "Bestseller"
+      }
+    },
+    "topCategories": {
+      "title": "Top categories"
+    },
+    "featuredTopic": {
+      "title": "Featured topics by category",
+      "linkLabel": "Explore more topics"
+    },
+    "appBussiness": {
+      "title": "Upskill your team with Udemy Business",
+      "description-1": "Unlimited access to 25,000+ top Udemy courses, anytime, anywhere",
+      "description-2": "International course collection in 14 languages",
+      "description-3": "Top certifications in tech and business",
+      "buttonGet": "Get 3HDA Bussiness",
+      "buttonLearnMore": "Learn more"
+    },
+    "teachOn": {
+      "title": "Become an instructor",
+      "description": "Instructors from around the world teach millions of learners on Udemy. We provide the tools and skills to teach what you love.",
+      "buttonStart": "Start teaching today"
+    }
+  },
+  "user-info": {
+    "public-profile": "Public Profile",
+    "change-password": "Change Password",
+    "add-info": "Add information to your profile",
+    "save-profile": "Save Profile",
+    "upload-avatar": "Upload User Image",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "role": "Role",
+    "email": "Email",
+    "phone": "Phone",
+    "bio": "Bio",
+    "oldPassword": "Old Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm New Password",
+    "changePassword": "Change Password"
+  },
+  "courseDetail": {
+    "previewCourse": "Preview this course",
+    "ratings": "ratings",
+    "students": "students",
+    "demandVideo": "of on-demand video",
+    "createdBy": "Created by ",
+    "free": "Free",
+    "enroll": "Enroll now",
+    "enrollByTopRelated": "Enroll in our in-depth courses from top-rated instructors",
+    "getMore": "Get more",
+    "course": "courses",
+    "moreCourseBy": "More Courses by",
+    "currentPrice": "Current Price",
+    "requirements": "Requirements",
+    "description": "Description",
+    "reviews": "Reviews"
+  },
+  "create-course": {
+    "create": "Create Course",
+    "name": "Course Name",
+    "description": "Course Description",
+    "price": "Course Price (VND)",
+    "majors": "Majors",
+    "button": "NEXT",
+    "major": "--- Choose Major ---"
+  },
+  "courseSearch" : {
+    "heading" : {
+      "resultFor" : "results for"
+    }
+  }
+}
